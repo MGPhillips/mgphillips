@@ -5,7 +5,9 @@ I'm an enjoyer of science and technology, and what it lets us do.
 I've worked between neuroscience academia, AI research, and startups. I care about open source science, software and thinking. I try to work on building the future. 
 
 💻 **Currently working on:** Product Engineering @ [Electric Twin](https://www.electrictwin.com/).
+
 🌱 **I’m currently learning:** How to build great product experiences around AI agents 
+
 👯 **I’m looking to collaborate on:** An open source AI for Science side project
 
 <!--
