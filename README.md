@@ -2,7 +2,7 @@
 
 I'm an enjoyer of science and technology, and what it lets us do. 
 
-I've worked between neuroscience academia, AI research, and startups. I care about open source science, software and thinking. I try to work on building the future. 
+I've worked between neuroscience academia, AI research, and startups. I care about open source science and software. I try to work on building the future. 
 
 💻 **Currently working on:** Product Engineering @ [Electric Twin](https://www.electrictwin.com/).
 
